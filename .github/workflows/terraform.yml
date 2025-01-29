@@ -6,7 +6,7 @@ on:
         - staging/branch
     path:
         - terraform/**
-  pull_requests:
+  pull_request:
     branches:
         - main
     path:
